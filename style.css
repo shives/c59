@@ -1,0 +1,60 @@
+body {
+    background-color: #00ff88;
+    text-align: center;
+    margin-top: 70px;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: #0800ff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.links:hover {
+    background-color: #ff0000;
+}
+
+#imgapj {
+    height: 450px;
+    width: 450px;
+}
+
+#br {
+    height: 450px;
+    width: 450px;
+}
+
+#daddy {
+    height: 150px;
+    width: 150px;
+}
+
+section {
+    border-color: #76ff03;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
